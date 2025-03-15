@@ -4,7 +4,7 @@
 
 The following diagram illustrates the system's flow:
 
-![System Architecture]()
+![System Architecture](Untitled.jpg)
 
 ### 🔍 **Workflow Description**
 
