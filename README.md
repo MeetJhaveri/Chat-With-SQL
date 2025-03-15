@@ -1,6 +1,8 @@
-# 🧠 SQL-Based Question Answering System
+# 🧠 SQL Chatbot with GPT-4
 
-This project leverages GPT-4 to handle intuitive natural language queries, generate SQL queries dynamically, and interact with SQL databases. It's designed to offer a user-friendly interface powered by **Streamlit** and developed in **Python**.
+This project demonstrates the development of a system that interprets natural language queries, generates dynamic SQL queries, and retrieves results from an SQL database. It leverages **GPT-4** to process and understand user input, automatically converting it into SQL queries for execution. The entire system is built using **Python**, ensuring efficient data handling and real-time query processing.
+
+
 
 ## Features
 
